@@ -1,0 +1,5 @@
+outs:
+- md5: 88cd72e13d9d93a7e4bb0f3801d7f542
+  size: 1064
+  hash: md5
+  path: aws workload discovery.rtf
