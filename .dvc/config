@@ -1,0 +1,4 @@
+[core]
+    remote = dvcs3
+['remote "dvcs3"']
+    url = s3://dvc123
