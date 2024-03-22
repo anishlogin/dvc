@@ -1,0 +1,5 @@
+outs:
+- md5: 1cbeb16070147d37ddefaa1af4adf69b
+  size: 29575
+  hash: md5
+  path: workload-discovery-stack.template
